@@ -7,9 +7,9 @@ To aid potential and existing immigrants locate ideal properties to settle in Si
 
 Scrum Framework.
 
-## SPRINT
+## Sprint
 
-Problem: Safety Checks on Airport Runways
+### Problem: Safety Checks on Airport Runways
 
 Currently, the safety checks on the runway (for wildlife and other hazards) at the airport are done manually and reported manually. Manual checking is difficult and the airport is keen to explore semi-automated methods to help staff. 
 Also, as these reports are manual, there is difficulty to pass this information to staff in other areas as well as when staff change shift.
